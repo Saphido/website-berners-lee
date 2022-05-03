@@ -9,9 +9,7 @@
 
 ### HTML
 
-* Adding basics html balises
-* Adding CSS stylesheet
-* Adding sementics
-* Translating brut text into sementic HTML
-
+* Writing up HTML page
+* Adding images
+* Adding sections
 
