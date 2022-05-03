@@ -3,7 +3,16 @@
 
 <p align="center"> Here is my repository for the Berners Lee exercise. Not finished yet, some content can be modified or added at any times. <p><br>
 
+# CHANGELOG V1.1 :
 
+### CSS
+
+* Adding open sans font
+* Stylizing button
+* Changing color of icons
+* Adjusting positions of sections & text
+
+<br>
 
 # CHANGELOG V1.0 :
 
