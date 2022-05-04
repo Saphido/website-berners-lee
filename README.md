@@ -4,6 +4,15 @@
 <p align="center"> Here is my repository for the Berners Lee exercise. <b>Finished<p></b>
 <br>
 
+# CHANGELOG V1.3 :
+
+### CSS
+
+* Fixing issues with differents screen size when text was colliding images
+* Adding hover animation to link/buttons
+
+<br>
+
 # CHANGELOG V1.2 :
 
 ### CSS
